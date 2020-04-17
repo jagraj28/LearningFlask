@@ -1,5 +1,6 @@
-from LearningFlask import db
 from datetime import datetime
+from __main__ import db
+
 
 class User(db.Model):
     id = db.Column(db.Integer, primary_key=True)
