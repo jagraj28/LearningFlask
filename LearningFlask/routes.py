@@ -1,4 +1,7 @@
+from flask import render_template, url_for, flash, redirect
+from LearningFlask import app
 from LearningFlask.models import User, Post
+from LearningFlask.forms import RegistrationForm, LoginForm
 
 posts = [   
     {
