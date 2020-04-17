@@ -1,2 +1,2 @@
 # LearningFlask
-Learning how to use the Flask framework within Python
+Learning how to use the Flask framework within Python.
