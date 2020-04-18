@@ -1,5 +1,5 @@
 from datetime import datetime
-from LearningFlask import db
+from LearningFlaskPackage import db
 
 
 class User(db.Model):
