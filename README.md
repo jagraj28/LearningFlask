@@ -12,3 +12,4 @@ From the Corey Schafer YouTube series, I learnt how to create a blog webpage wit
 8. Create, Update and Delete Posts - Allowing the user to do more with the webpage with more functionality for posts.
 9. Pagination - Implementing page number buttons and sorting posts from newest to oldest.
 10. Email and Password Reset - Creating new routes within the program so the user can request a password reset email and log in.
+11. Blueprints - Cleaning up the files we have for our program by learning how to use the Blueprints function inside Flask.
