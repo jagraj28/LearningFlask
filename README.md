@@ -13,3 +13,4 @@ From the Corey Schafer YouTube series, I learnt how to create a blog webpage wit
 9. Pagination - Implementing page number buttons and sorting posts from newest to oldest.
 10. Email and Password Reset - Creating new routes within the program so the user can request a password reset email and log in.
 11. Blueprints - Cleaning up the files we have for our program by learning how to use the Blueprints function inside Flask.
+12. Custom Error Pages - Creating custom 403, 404 and 500 error pages so user cannot access certain pages, and in case there are server issues.
