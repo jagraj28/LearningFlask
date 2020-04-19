@@ -11,4 +11,4 @@ From the Corey Schafer YouTube series, I learnt how to create a blog webpage wit
 7. User Account Page - Adding a profile picture for user accounts as well as being able to update blog posts.
 8. Create, Update and Delete Posts - Allowing the user to do more with the webpage with more functionality for posts.
 9. Pagination - Implementing page number buttons and sorting posts from newest to oldest.
-10.
+10. Email and Password Reset - Creating new routes within the program so the user can request a password reset email and log in.
